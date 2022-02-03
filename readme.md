@@ -23,9 +23,12 @@
 5. 创建完后只需要将新的歌词文件拖入LyricsX Window中即可使用   
 ## 提示
 ### 1、如何找到原有歌词
-如图：
+如图：  
+![Image load fail](https://github.com/Doublefire-Chen/Lrcx_Creator/blob/main/Readme_picture/Show_old_lrcx_file.png)  
 ### 2、如何找到LyricX窗口
-如图：
+如图：  
+![Image load fail](https://github.com/Doublefire-Chen/Lrcx_Creator/blob/main/Readme_picture/Show_lyrics_window.png)  
+![Image load fail](https://github.com/Doublefire-Chen/Lrcx_Creator/blob/main/Readme_picture/Lyrics_window.png)  
 ## 祝大家新年快乐！！！  
 
 ---
@@ -51,4 +54,13 @@ Welcome everyone who is interested in to make a contribution.All for one, one fo
 4. input `python main.py`, press enter key, then do followed by the clue  
 5. When new lrcx file is created, you just need to drag new file to LyricsX window to update.
 (Install all package if needed, eg:`pip3 install FFmpeg`.)  
+## Tips  
+### 1.How to find old Lrcx file  
+As shown:  
+![Image load fail](https://github.com/Doublefire-Chen/Lrcx_Creator/blob/main/Readme_picture/Show_old_lrcx_file.png)  
+### 2.How to find LyricX window  
+如图：  
+As shown:  
+![Image load fail](https://github.com/Doublefire-Chen/Lrcx_Creator/blob/main/Readme_picture/Show_lyrics_window.png)  
+![Image load fail](https://github.com/Doublefire-Chen/Lrcx_Creator/blob/main/Readme_picture/Lyrics_window.png)  
 ## Happy new year!!!(Chinese lunar new year)  
