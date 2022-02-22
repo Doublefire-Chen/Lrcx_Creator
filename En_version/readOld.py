@@ -20,6 +20,8 @@ def readOld():
             for i in range(11): #Delete the first 11 useless str(which is old time axis) 
                 lineTmp.pop(0)
             lineTmp=''.join(lineTmp)
+            if lineTmp=='\n':
+                continue
             newLrcx.write(lineTmp)
     oldLrcx.close()
     newLrcx.close()
