@@ -20,6 +20,8 @@ def readOld():
             for i in range(11): #删去了前面11个没用的字符（原来的时间轴）
                 lineTmp.pop(0)
             lineTmp=''.join(lineTmp)
+            if lineTmp=='\n':
+                continue
             newLrcx.write(lineTmp)
     oldLrcx.close()
     newLrcx.close()
